@@ -1,3 +1,3 @@
-module go.nexuzhealth.io/pte/bazz/bar
+module gitlab.com/nexuzhealth/pte/bazz/bar
 
 go 1.23.6
